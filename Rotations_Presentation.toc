@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {2}{Genotype Reconstruction and the Diversity Outbred Population}{2}{0}{1}
+\beamer@sectionintoc {3}{Macro}{6}{0}{2}
+\beamer@sectionintoc {4}{Identifying Specific Marker Intervals}{7}{0}{3}
+\beamer@sectionintoc {5}{Compare methods on specific intervals}{8}{0}{4}
