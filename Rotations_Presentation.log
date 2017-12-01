@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  30 NOV 2017 13:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  30 NOV 2017 17:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -707,25 +707,100 @@ Package: beamerinnerthemedefault 2014/06/30  (rcs-revision 580088513a67)
 emedefault.sty
 Package: beamerouterthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
 )))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box53
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen188
+\pgf@nodesepend=\dimen189
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen190
+\pgffor@skip=\dimen191
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count153
+\pgfplotmarksize=\dimen192
+)
+\tikz@lastx=\dimen193
+\tikz@lasty=\dimen194
+\tikz@lastxsaved=\dimen195
+\tikz@lastysaved=\dimen196
+\tikzleveldistance=\dimen197
+\tikzsiblingdistance=\dimen198
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count154
+\tikznumberofchildren=\count155
+\tikznumberofcurrentchild=\count156
+\tikz@fig@count=\count157
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count158
+\pgfmatrixcurrentcolumn=\count159
+\pgf@matrix@numberofcolumns=\count160
+)
+\tikz@expandcount=\count161
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count153
-\lst@gtempboxa=\box53
-\lst@token=\toks43
-\lst@length=\count154
-\lst@currlwidth=\dimen188
-\lst@column=\count155
-\lst@pos=\count156
-\lst@lostspace=\dimen189
-\lst@width=\dimen190
-\lst@newlines=\count157
-\lst@lineno=\count158
-\lst@maxwidth=\dimen191
+\lst@mode=\count162
+\lst@gtempboxa=\box58
+\lst@token=\toks45
+\lst@length=\count163
+\lst@currlwidth=\dimen199
+\lst@column=\count164
+\lst@pos=\count165
+\lst@lostspace=\dimen256
+\lst@width=\dimen257
+\lst@newlines=\count166
+\lst@lineno=\count167
+\lst@maxwidth=\dimen258
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count159
-\lst@skipnumbers=\count160
-\lst@framebox=\box54
+\c@lstnumber=\count168
+\lst@skipnumbers=\count169
+\lst@framebox=\box59
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
@@ -734,49 +809,49 @@ Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 39.
+(hyperref)                removing `math shift' on input line 40.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 39.
+(hyperref)                removing `superscript' on input line 40.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 39.
+(hyperref)                removing `math shift' on input line 40.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 39.
+(hyperref)                removing `\\' on input line 40.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 39.
+(hyperref)                removing `math shift' on input line 40.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 39.
+(hyperref)                removing `superscript' on input line 40.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 39.
+(hyperref)                removing `math shift' on input line 40.
 
 (./Rotations_Presentation.aux)
 \openout1 = `Rotations_Presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -814,17 +889,17 @@ LaTeX Font Info:    ... okay on input line 45.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count161
-\scratchdimen=\dimen192
-\scratchbox=\box55
-\nofMPsegments=\count162
-\nofMParguments=\count163
-\everyMPshowfont=\toks44
-\MPscratchCnt=\count164
-\MPscratchDim=\dimen193
-\MPnumerator=\count165
-\makeMPintoPDFobject=\count166
-\everyMPtoPDFconversion=\toks45
+\scratchcounter=\count170
+\scratchdimen=\dimen259
+\scratchbox=\box60
+\nofMPsegments=\count171
+\nofMParguments=\count172
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count173
+\MPscratchDim=\dimen260
+\MPnumerator=\count174
+\makeMPintoPDFobject=\count175
+\everyMPtoPDFconversion=\toks47
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -841,8 +916,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box56
-Package hyperref Info: Link coloring OFF on input line 45.
+\AtBeginShipoutBox=\box61
+Package hyperref Info: Link coloring OFF on input line 46.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -850,68 +925,68 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count167
+\c@section@level=\count176
 )
-LaTeX Info: Redefining \ref on input line 45.
-LaTeX Info: Redefining \pageref on input line 45.
-LaTeX Info: Redefining \nameref on input line 45.
+LaTeX Info: Redefining \ref on input line 46.
+LaTeX Info: Redefining \pageref on input line 46.
+LaTeX Info: Redefining \nameref on input line 46.
 
 (./Rotations_Presentation.out) (./Rotations_Presentation.out)
 \@outlinefile=\write5
 \openout5 = `Rotations_Presentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 45.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 46.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 45.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 46.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 45.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 45.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 45.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 45.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 45.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 45.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 45.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 45.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 45.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 45.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 45.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 45.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 46.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 45.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 46.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 45.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 45.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 45.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 45.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 45.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 45.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 45.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 46.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 46.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 4
-5.
+6.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-45.
+46.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 45.
+ut line 46.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translato
 r-basic-dictionary/translator-basic-dictionary-English.dict
@@ -937,22 +1012,22 @@ Dictionary: translator-numbers-dictionary, Language: English
 r-theorem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 45.
-\c@lstlisting=\count168
+LaTeX Info: Redefining \includegraphics on input line 46.
+\c@lstlisting=\count177
 
 (./Rotations_Presentation.nav)
-LaTeX Font Info:    Try loading font information for U+msa on input line 47.
+LaTeX Font Info:    Try loading font information for U+msa on input line 48.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 47.
+LaTeX Font Info:    Try loading font information for U+msb on input line 48.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 47.
+line 48.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -960,12 +1035,213 @@ thkerncmss.
 )
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 47.
+(Font)              size <5> substituted on input line 48.
 
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<figures/mouse.jpg, id=46, 2007.5pt x 1063.975pt>
+File: figures/mouse.jpg Graphic file (type jpg)
+ <use figures/mouse.jpg>
+Package pdftex.def Info: figures/mouse.jpg used on input line 68.
+(pdftex.def)             Requested size: 364.18318pt x 273.13646pt.
+
 [2
+
+ <./figures/mouse.jpg>]
+<figures/do_cross.pdf, id=53, 704.6325pt x 469.755pt>
+File: figures/do_cross.pdf Graphic file (type pdf)
+
+<use figures/do_cross.pdf>
+Package pdftex.def Info: figures/do_cross.pdf used on input line 74.
+(pdftex.def)             Requested size: 364.19615pt x 273.14621pt.
+ [3
+
+ <./figures/do_cross.pdf>]
+<figures/do_genome.pdf, id=64, 704.6325pt x 469.755pt>
+File: figures/do_genome.pdf Graphic file (type pdf)
+
+<use figures/do_genome.pdf>
+Package pdftex.def Info: figures/do_genome.pdf used on input line 81.
+(pdftex.def)             Requested size: 364.19615pt x 273.14621pt.
+ [4
+
+ <./figures/do_genome.pdf>]
+<figures/white.jpg, id=75, 1031.855pt x 172.645pt>
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 114.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+
+[5
+
+ <./figures/white.jpg>]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 114.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [6
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 114.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+
+[7
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 114.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [8
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 114.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [9
+
+]
+<figures/genoprobsA.pdf, id=103, 704.6325pt x 469.755pt>
+File: figures/genoprobsA.pdf Graphic file (type pdf)
+
+<use figures/genoprobsA.pdf>
+Package pdftex.def Info: figures/genoprobsA.pdf used on input line 120.
+(pdftex.def)             Requested size: 364.19615pt x 273.14621pt.
+ [10
+
+ <./figures/genoprobsA.pdf>]
+<figures/genoprobsB.pdf, id=115, 704.6325pt x 469.755pt>
+File: figures/genoprobsB.pdf Graphic file (type pdf)
+
+<use figures/genoprobsB.pdf>
+Package pdftex.def Info: figures/genoprobsB.pdf used on input line 125.
+(pdftex.def)             Requested size: 364.19615pt x 273.14621pt.
+ [11
+
+ <./figures/genoprobsB.pdf>]
+<figures/genoprobsC.pdf, id=127, 704.6325pt x 469.755pt>
+File: figures/genoprobsC.pdf Graphic file (type pdf)
+
+<use figures/genoprobsC.pdf>
+Package pdftex.def Info: figures/genoprobsC.pdf used on input line 130.
+(pdftex.def)             Requested size: 364.19615pt x 273.14621pt.
+ [12
+
+ <./figures/genoprobsC.pdf>]
+<figures/genoprobsD.pdf, id=139, 704.6325pt x 469.755pt>
+File: figures/genoprobsD.pdf Graphic file (type pdf)
+
+<use figures/genoprobsD.pdf>
+Package pdftex.def Info: figures/genoprobsD.pdf used on input line 135.
+(pdftex.def)             Requested size: 364.19615pt x 273.14621pt.
+ [13
+
+ <./figures/genoprobsD.pdf>]
+<figures/genoprobsE.pdf, id=153, 704.6325pt x 469.755pt>
+File: figures/genoprobsE.pdf Graphic file (type pdf)
+
+<use figures/genoprobsE.pdf>
+Package pdftex.def Info: figures/genoprobsE.pdf used on input line 140.
+(pdftex.def)             Requested size: 364.19615pt x 273.14621pt.
+ [14
+
+ <./figures/genoprobsE.pdf>]
+<figures/genoprobsF.pdf, id=165, 704.6325pt x 469.755pt>
+File: figures/genoprobsF.pdf Graphic file (type pdf)
+
+<use figures/genoprobsF.pdf>
+Package pdftex.def Info: figures/genoprobsF.pdf used on input line 145.
+(pdftex.def)             Requested size: 364.19615pt x 273.14621pt.
+ [15
+
+ <./figures/genoprobsF.pdf>]
+<figures/genoprobs.pdf, id=177, 704.6325pt x 469.755pt>
+File: figures/genoprobs.pdf Graphic file (type pdf)
+
+<use figures/genoprobs.pdf>
+Package pdftex.def Info: figures/genoprobs.pdf used on input line 150.
+(pdftex.def)             Requested size: 364.19615pt x 273.14621pt.
+ [16
+
+ <./figures/genoprobs.pdf>]
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 174
+.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 174.
+
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbackslash' on input line 174.
+
+File: figures/white.jpg Graphic file (type jpg)
+<use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 174.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [17
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 174.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [18
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+
+<use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 174.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [19
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 179.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [20
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+
+<use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 192.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [21
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 192.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [22
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+
+<use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 192.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [23
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 192.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [24
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+
+<use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 192.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [25
 
 ]
 \tf@nav=\write6
@@ -977,38 +1253,57 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 \tf@snm=\write8
 \openout8 = `Rotations_Presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 196.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 196.
  (./Rotations_Presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
-Package rerunfilecheck Info: File `Rotations_Presentation.out' has not changed.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 196.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 196.
 
-(rerunfilecheck)             Checksum: D0AA110838F7D3330F4E56105C80D634;95.
 
+Package rerunfilecheck Warning: File `Rotations_Presentation.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Rotations_Presentation.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  D0AA110838F7D3330F4E56105C80D634;95.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 196.
  ) 
 Here is how much of TeX's memory you used:
- 17740 strings out of 493014
- 335654 string characters out of 6133351
- 405690 words of memory out of 5000000
- 20878 multiletter control sequences out of 15000+600000
- 15446 words of font info for 57 fonts, out of 8000000 for 9000
+ 20810 strings out of 493014
+ 406983 string characters out of 6133351
+ 469547 words of memory out of 5000000
+ 23829 multiletter control sequences out of 15000+600000
+ 17139 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,14n,55p,423b,551s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Rotations_Presentation.pdf (2 pages, 44044 bytes).
+ 56i,14n,59p,423b,547s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Navigation30} has been referenced but does not ex
+ist, replaced by a fixed one
+
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Rotations_Presentation.pdf (25 pages, 331458 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 301 PDF objects out of 1000 (max. 8388607)
+ 232 compressed objects within 3 object streams
+ 54 named destinations out of 1000 (max. 500000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 
