@@ -60,10 +60,14 @@
 \headcommand {\sectionentry {5}{Which method is giving better answer}{35}{Which method is giving better answer}{0}}
 \headcommand {\beamer@sectionpages {31}{34}}
 \headcommand {\beamer@subsectionpages {31}{34}}
-\headcommand {\slideentry {5}{0}{1}{35/35}{}{0}}
-\headcommand {\beamer@framepages {35}{35}}
-\headcommand {\beamer@partpages {1}{35}}
-\headcommand {\beamer@subsectionpages {35}{35}}
-\headcommand {\beamer@sectionpages {35}{35}}
-\headcommand {\beamer@documentpages {35}}
-\headcommand {\def \inserttotalframenumber {24}}
+\headcommand {\slideentry {5}{0}{1}{35/38}{}{0}}
+\headcommand {\beamer@framepages {35}{38}}
+\headcommand {\slideentry {5}{0}{2}{39/45}{}{0}}
+\headcommand {\beamer@framepages {39}{45}}
+\headcommand {\slideentry {5}{0}{3}{46/57}{}{0}}
+\headcommand {\beamer@framepages {46}{57}}
+\headcommand {\beamer@partpages {1}{57}}
+\headcommand {\beamer@subsectionpages {35}{57}}
+\headcommand {\beamer@sectionpages {35}{57}}
+\headcommand {\beamer@documentpages {57}}
+\headcommand {\def \inserttotalframenumber {26}}

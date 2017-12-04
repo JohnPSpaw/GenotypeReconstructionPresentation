@@ -279,18 +279,62 @@
 
 		%So now which one is giving a better answer?
 	\begin{frame}
+		\vspace{0.3in}
 		\frametitle{Which answer is `correct'?}
-			Pick an interval with differing answers and compare:
 			\begin{itemize}
-				\item Raw SNP data genotypes to `best match' \\
-				\item Predicted genotypes (for predictions) with `best match'
-				\item Predicted genotypes for both predictions to each other\\
-				\item Expected 
-				
-				
-				%NEEDS WORK ^^^^
+				\pause \item Pick an interval with differing, confident answers  \\
+				\pause \item Compare SNP genotypes with expected genotypes \\
+				\pause \item Compare SNP genotypes between discordant founders \\
 			\end{itemize}
 	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Which answer is `correct'?}
+		\vspace{0.3in}
+		\pause \textbf{Individual:} DO-171 \qquad \textbf{Chromosome:} 16 \\
+		\pause	
+		\begin{table}[]
+			\centering
+			\begin{tabular}{|c|c|c|c|}
+				\hline
+		                              & \textbf{Prediction} & \textbf{Probability} & \textbf{Match Proportion} \\ \hline
+				\textbf{r\textbackslash qtl2} & EG                  & 0.892                & 0.9958848                 \\ \hline
+				\textbf{doqtl}                & BG                  & 0.999                & 0.9917695                 \\ \hline
+			\end{tabular}
+		\end{table}
+
+		\pause \textbf{Best match:} EG \newline
+			%also CG, which is identical
+			
+		\pause Disagreement between \textbf{E} and \textbf{B} \pause $\rightarrow$ Proportion match $=0.997$ \newline
+		
+		\pause We see this consistently across the marker region
+	
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Overall Results}				
+			\pause \textbf{Goal:} Compare large 3D arrays \newline
+			\begin{itemize}
+				\pause \item Measure of distance to identify problem regions\\
+					\begin{itemize}
+						\pause \item[$\bullet$] Sum of absolute differences across haplotypes \\
+						\pause \item[$\bullet$] Heat map of individuals $\times$ markers \\
+						\pause \item[$\bullet$] Plot average distance by marker position \\
+					\end{itemize}
+				\pause \item Visually compare probabilities \textit{at individual level} \\
+					\begin{itemize}
+						\pause \item[$\bullet$] Univariate probability heatmap \\
+						\pause \item[$\bullet$] Bivariate probability heatmap \\
+					\end{itemize}
+				\pause \item Compare observed SNP genotypes to expected \\
+					\begin{itemize}
+						\pause \item[$\bullet$] r\textbackslash qtl2 consistently gives better answers \\
+						\pause \item[$\bullet$] Disagreement often related to similarity of founders \\
+					\end{itemize}
+			\end{itemize}
+	\end{frame}
+	
 	
 \end{document}
 

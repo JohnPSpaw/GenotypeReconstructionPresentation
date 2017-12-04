@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  2 DEC 2017 12:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  3 DEC 2017 20:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1040,7 +1040,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<figures/mouse.jpg, id=62, 2007.5pt x 1063.975pt>
+<figures/mouse.jpg, id=46, 2007.5pt x 1063.975pt>
 File: figures/mouse.jpg Graphic file (type jpg)
  <use figures/mouse.jpg>
 Package pdftex.def Info: figures/mouse.jpg used on input line 68.
@@ -1049,7 +1049,7 @@ Package pdftex.def Info: figures/mouse.jpg used on input line 68.
 [2
 
  <./figures/mouse.jpg>]
-<figures/do_cross.pdf, id=68, 704.6325pt x 469.755pt>
+<figures/do_cross.pdf, id=53, 704.6325pt x 469.755pt>
 File: figures/do_cross.pdf Graphic file (type pdf)
 
 <use figures/do_cross.pdf>
@@ -1058,7 +1058,7 @@ Package pdftex.def Info: figures/do_cross.pdf used on input line 74.
  [3
 
  <./figures/do_cross.pdf>]
-<figures/do_genome.pdf, id=79, 704.6325pt x 469.755pt>
+<figures/do_genome.pdf, id=64, 704.6325pt x 469.755pt>
 File: figures/do_genome.pdf Graphic file (type pdf)
 
 <use figures/do_genome.pdf>
@@ -1067,7 +1067,7 @@ Package pdftex.def Info: figures/do_genome.pdf used on input line 81.
  [4
 
  <./figures/do_genome.pdf>]
-<figures/white.jpg, id=90, 1031.855pt x 172.645pt>
+<figures/white.jpg, id=75, 1031.855pt x 172.645pt>
 File: figures/white.jpg Graphic file (type jpg)
  <use figures/white.jpg>
 Package pdftex.def Info: figures/white.jpg used on input line 114.
@@ -1105,7 +1105,7 @@ Package pdftex.def Info: figures/white.jpg used on input line 114.
  [9
 
 ]
-<figures/genoprobsA.pdf, id=118, 704.6325pt x 469.755pt>
+<figures/genoprobsA.pdf, id=103, 704.6325pt x 469.755pt>
 File: figures/genoprobsA.pdf Graphic file (type pdf)
 
 <use figures/genoprobsA.pdf>
@@ -1114,7 +1114,7 @@ Package pdftex.def Info: figures/genoprobsA.pdf used on input line 120.
  [10
 
  <./figures/genoprobsA.pdf>]
-<figures/genoprobsB.pdf, id=130, 704.6325pt x 469.755pt>
+<figures/genoprobsB.pdf, id=115, 704.6325pt x 469.755pt>
 File: figures/genoprobsB.pdf Graphic file (type pdf)
 
 <use figures/genoprobsB.pdf>
@@ -1123,7 +1123,7 @@ Package pdftex.def Info: figures/genoprobsB.pdf used on input line 125.
  [11
 
  <./figures/genoprobsB.pdf>]
-<figures/genoprobsC.pdf, id=142, 704.6325pt x 469.755pt>
+<figures/genoprobsC.pdf, id=127, 704.6325pt x 469.755pt>
 File: figures/genoprobsC.pdf Graphic file (type pdf)
 
 <use figures/genoprobsC.pdf>
@@ -1132,7 +1132,7 @@ Package pdftex.def Info: figures/genoprobsC.pdf used on input line 130.
  [12
 
  <./figures/genoprobsC.pdf>]
-<figures/genoprobsD.pdf, id=155, 704.6325pt x 469.755pt>
+<figures/genoprobsD.pdf, id=139, 704.6325pt x 469.755pt>
 File: figures/genoprobsD.pdf Graphic file (type pdf)
 
 <use figures/genoprobsD.pdf>
@@ -1141,7 +1141,7 @@ Package pdftex.def Info: figures/genoprobsD.pdf used on input line 135.
  [13
 
  <./figures/genoprobsD.pdf>]
-<figures/genoprobsE.pdf, id=168, 704.6325pt x 469.755pt>
+<figures/genoprobsE.pdf, id=153, 704.6325pt x 469.755pt>
 File: figures/genoprobsE.pdf Graphic file (type pdf)
 
 <use figures/genoprobsE.pdf>
@@ -1150,7 +1150,7 @@ Package pdftex.def Info: figures/genoprobsE.pdf used on input line 140.
  [14
 
  <./figures/genoprobsE.pdf>]
-<figures/genoprobsF.pdf, id=180, 704.6325pt x 469.755pt>
+<figures/genoprobsF.pdf, id=165, 704.6325pt x 469.755pt>
 File: figures/genoprobsF.pdf Graphic file (type pdf)
 
 <use figures/genoprobsF.pdf>
@@ -1159,7 +1159,7 @@ Package pdftex.def Info: figures/genoprobsF.pdf used on input line 145.
  [15
 
  <./figures/genoprobsF.pdf>]
-<figures/compare_geno.pdf, id=192, 505.89pt x 505.89pt>
+<figures/compare_geno.pdf, id=177, 505.89pt x 505.89pt>
 File: figures/compare_geno.pdf Graphic file (type pdf)
 
 <use figures/compare_geno.pdf>
@@ -1251,7 +1251,7 @@ Package pdftex.def Info: figures/white.jpg used on input line 200.
 (pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
  [25
 
-] <figures/heatmap5.png, id=258, 481.8pt x 481.8pt>
+] <figures/heatmap5.png, id=244, 481.8pt x 481.8pt>
 File: figures/heatmap5.png Graphic file (type png)
 
 <use figures/heatmap5.png>
@@ -1268,7 +1268,7 @@ Package pdftex.def Info: figures/white.jpg used on input line 208.
  [26
 
  <./figures/heatmap5.png>]
-<figures/agg_marker_5.pdf, id=266, 505.89pt x 505.89pt>
+<figures/agg_marker_5.pdf, id=252, 505.89pt x 505.89pt>
 File: figures/agg_marker_5.pdf Graphic file (type pdf)
 
 <use figures/agg_marker_5.pdf>
@@ -1285,7 +1285,7 @@ Package pdftex.def Info: figures/white.jpg used on input line 214.
  [27
 
  <./figures/agg_marker_5.pdf>]
-<figures/heatmap16.png, id=278, 481.8pt x 481.8pt>
+<figures/heatmap16.png, id=264, 481.8pt x 481.8pt>
 File: figures/heatmap16.png Graphic file (type png)
  <use figures/heatmap16.png>
 Package pdftex.def Info: figures/heatmap16.png used on input line 221.
@@ -1301,7 +1301,7 @@ Package pdftex.def Info: figures/white.jpg used on input line 221.
  [28
 
  <./figures/heatmap16.png>]
-<figures/agg_marker_16.pdf, id=285, 505.89pt x 505.89pt>
+<figures/agg_marker_16.pdf, id=271, 505.89pt x 505.89pt>
 File: figures/agg_marker_16.pdf Graphic file (type pdf)
 
 <use figures/agg_marker_16.pdf>
@@ -1335,7 +1335,7 @@ Package pdftex.def Info: figures/white.jpg used on input line 235.
  [30
 
 ]
-<figures/uni_probs_heat_171_doqtl_size.pdf, id=303, 614.295pt x 794.97pt>
+<figures/uni_probs_heat_171_doqtl_size.pdf, id=288, 614.295pt x 794.97pt>
 File: figures/uni_probs_heat_171_doqtl_size.pdf Graphic file (type pdf)
 
 <use figures/uni_probs_heat_171_doqtl_size.pdf>
@@ -1343,7 +1343,7 @@ Package pdftex.def Info: figures/uni_probs_heat_171_doqtl_size.pdf used on inpu
 t line 248.
 (pdftex.def)             Requested size: 151.7643pt x 267.39922pt.
 
-<figures/uni_probs_heat_171_rqtl2_size.pdf, id=304, 614.295pt x 794.97pt>
+<figures/uni_probs_heat_171_rqtl2_size.pdf, id=289, 614.295pt x 794.97pt>
 File: figures/uni_probs_heat_171_rqtl2_size.pdf Graphic file (type pdf)
 
 <use figures/uni_probs_heat_171_rqtl2_size.pdf>
@@ -1362,7 +1362,7 @@ Package pdftex.def Info: figures/white.jpg used on input line 248.
 
  <./figures/uni_probs_heat_171_doqtl_size.pdf> <./figures/uni_probs_heat_171_rq
 tl2_size.pdf>]
-<figures/uni_probs_heat_171_doqtl_markup1.pdf, id=364, 614.295pt x 794.97pt>
+<figures/uni_probs_heat_171_doqtl_markup1.pdf, id=351, 614.295pt x 794.97pt>
 File: figures/uni_probs_heat_171_doqtl_markup1.pdf Graphic file (type pdf)
 
 <use figures/uni_probs_heat_171_doqtl_markup1.pdf>
@@ -1370,7 +1370,7 @@ Package pdftex.def Info: figures/uni_probs_heat_171_doqtl_markup1.pdf used on i
 nput line 257.
 (pdftex.def)             Requested size: 151.7643pt x 267.39922pt.
 
-<figures/uni_probs_heat_171_rqtl2_markup1.pdf, id=365, 614.295pt x 794.97pt>
+<figures/uni_probs_heat_171_rqtl2_markup1.pdf, id=352, 614.295pt x 794.97pt>
 File: figures/uni_probs_heat_171_rqtl2_markup1.pdf Graphic file (type pdf)
 
 <use figures/uni_probs_heat_171_rqtl2_markup1.pdf>
@@ -1389,7 +1389,7 @@ Package pdftex.def Info: figures/white.jpg used on input line 257.
 
  <./figures/uni_probs_heat_171_doqtl_markup1.pdf> <./figures/uni_probs_heat_171
 _rqtl2_markup1.pdf>]
-<figures/uni_probs_heat_171_doqtl_markup2.pdf, id=426, 614.295pt x 794.97pt>
+<figures/uni_probs_heat_171_doqtl_markup2.pdf, id=412, 614.295pt x 794.97pt>
 File: figures/uni_probs_heat_171_doqtl_markup2.pdf Graphic file (type pdf)
 
 <use figures/uni_probs_heat_171_doqtl_markup2.pdf>
@@ -1397,7 +1397,7 @@ Package pdftex.def Info: figures/uni_probs_heat_171_doqtl_markup2.pdf used on i
 nput line 266.
 (pdftex.def)             Requested size: 151.7643pt x 267.39922pt.
 
-<figures/uni_probs_heat_171_rqtl2_markup2.pdf, id=427, 614.295pt x 794.97pt>
+<figures/uni_probs_heat_171_rqtl2_markup2.pdf, id=413, 614.295pt x 794.97pt>
 File: figures/uni_probs_heat_171_rqtl2_markup2.pdf Graphic file (type pdf)
 
 <use figures/uni_probs_heat_171_rqtl2_markup2.pdf>
@@ -1416,7 +1416,7 @@ Package pdftex.def Info: figures/white.jpg used on input line 266.
 
  <./figures/uni_probs_heat_171_doqtl_markup2.pdf> <./figures/uni_probs_heat_171
 _rqtl2_markup2.pdf>]
-<figures/probs_compare_171.pdf, id=487, 505.89pt x 505.89pt>
+<figures/probs_compare_171.pdf, id=474, 505.89pt x 505.89pt>
 File: figures/probs_compare_171.pdf Graphic file (type pdf)
 
 <use figures/probs_compare_171.pdf>
@@ -1436,9 +1436,186 @@ Package pdftex.def Info: figures/white.jpg used on input line 274.
 File: figures/white.jpg Graphic file (type jpg)
 
 <use figures/white.jpg>
-Package pdftex.def Info: figures/white.jpg used on input line 288.
+Package pdftex.def Info: figures/white.jpg used on input line 289.
 (pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
  [35
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 289.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [36
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+
+<use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 289.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [37
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 289.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [38
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 313
+.
+LaTeX Font Info:    No file OMScmss.fd. on input line 313.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/bx/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbackslash' on input line 313.
+
+File: figures/white.jpg Graphic file (type jpg)
+<use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 313.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [39
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 313.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [40
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+
+<use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 313.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [41
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 313.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [42
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+
+<use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 313.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [43
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 313.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [44
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+
+<use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 313.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [45
+
+]
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbackslash' on input line 336.
+
+File: figures/white.jpg Graphic file (type jpg)
+<use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 336.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [46
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 336.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [47
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+
+<use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 336.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [48
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 336.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [49
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+
+<use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 336.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [50
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 336.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [51
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+
+<use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 336.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [52
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 336.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [53
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+
+<use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 336.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [54
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 336.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [55
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+
+<use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 336.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [56
+
+]
+File: figures/white.jpg Graphic file (type jpg)
+ <use figures/white.jpg>
+Package pdftex.def Info: figures/white.jpg used on input line 336.
+(pdftex.def)             Requested size: 364.1934pt x 273.1765pt.
+ [57
 
 ]
 \tf@nav=\write6
@@ -1450,15 +1627,21 @@ Package pdftex.def Info: figures/white.jpg used on input line 288.
 \tf@snm=\write8
 \openout8 = `Rotations_Presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 290.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 290.
- (./Rotations_Presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 290.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 290.
-Package rerunfilecheck Info: File `Rotations_Presentation.out' has not changed.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 339.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 339.
 
-(rerunfilecheck)             Checksum: ECBC3DE7EDECFDBA9AA2CDB9D18D2ED0;297.
+(./Rotations_Presentation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 339.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 339.
 
+
+Package rerunfilecheck Warning: File `Rotations_Presentation.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Rotations_Presentation.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  ECBC3DE7EDECFDBA9AA2CDB9D18D2ED0;297.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -1466,14 +1649,14 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 290.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 339.
  ) 
 Here is how much of TeX's memory you used:
- 20918 strings out of 493014
- 409466 string characters out of 6133351
- 469567 words of memory out of 5000000
- 23903 multiletter control sequences out of 15000+600000
- 17139 words of font info for 63 fonts, out of 8000000 for 9000
+ 21002 strings out of 493014
+ 410917 string characters out of 6133351
+ 474547 words of memory out of 5000000
+ 23941 multiletter control sequences out of 15000+600000
+ 19092 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,14n,59p,423b,547s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
@@ -1489,10 +1672,10 @@ local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/l
 ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
 cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/loc
 al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Rotations_Presentation.pdf (35 pages, 6358043 bytes).
+Output written on Rotations_Presentation.pdf (57 pages, 6388969 bytes).
 PDF statistics:
- 568 PDF objects out of 1000 (max. 8388607)
- 440 compressed objects within 5 object streams
- 76 named destinations out of 1000 (max. 500000)
- 185 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 680 PDF objects out of 1000 (max. 8388607)
+ 529 compressed objects within 6 object streams
+ 120 named destinations out of 1000 (max. 500000)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
 
