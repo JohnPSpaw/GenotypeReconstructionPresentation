@@ -1,2 +1,5 @@
 \beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {2}{Genotype Reconstruction and the Diversity Outbred Population}{2}{0}{1}
+\beamer@sectionintoc {2}{Introduction - Population, Model, and Research Problem}{2}{0}{1}
+\beamer@sectionintoc {3}{Measure of Distance - Sum absolute difference}{21}{0}{2}
+\beamer@sectionintoc {4}{Probability Comparison}{31}{0}{3}
+\beamer@sectionintoc {5}{Which method is giving better answer}{35}{0}{4}

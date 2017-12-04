@@ -53,8 +53,8 @@
 %\frame{\tableofcontents}
 
 
-
-\section{Genotype Reconstruction and the Diversity Outbred Population}
+%---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\section{Introduction -  Population, Model, and Research Problem}
 	% Insert Karl's slides in this section
 		%Founders and breeding diagram (explaining DO population)
 		%Image of DO genome showing each chromosome
@@ -143,15 +143,12 @@
 		\setbeamertemplate{navigation symbols}{}
     		\begin{frame}[plain]
     		\end{frame}
-		
-		%\usebackgroundtemplate{\includegraphics[height=\paperheight,width=\paperwidth]{figures/genoprobs.pdf}}
-		%\setbeamertemplate{navigation symbols}{}
-    		%\begin{frame}[plain]
-    		%\end{frame}
 	
 		\usebackgroundtemplate{\includegraphics[height=\paperheight,width=\paperwidth]{figures/white.jpg}}
 		\setbeamertemplate{navigation symbols}{}
 
+
+	%Vertical Haplotype comparison
 	\begin{frame}
 		\begin{figure}
 			\frametitle{Inferred Haplotypes}
@@ -159,7 +156,8 @@
 			\includegraphics[height=3.6in, width=3.6in]{figures/compare_geno.pdf}
 		\end{figure}
 	\end{frame}
-
+	
+	%Data challenges
 	\begin{frame}
 		\frametitle{Data}
 		\vspace{0.3in}
@@ -182,8 +180,10 @@
 		\pause \textbf{How can we visualize this?}
 
 	\end{frame}
+%---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-	
+\section{Measure of Distance  - Sum absolute difference}
+	%Measure of distance overview -  Sum of Absolute Difference
 	\begin{frame}
 		\frametitle{Measure of distance}
 		
@@ -198,7 +198,9 @@
 		\pause \textbf{Reduces problems to two-dimensions}: \pause $500 \times 120,000$ \newline
 		
 	\end{frame}
-		
+	
+	
+	%Heat map and agg_marker for sum absolute difference (CHR 5)
 	\begin{frame}
 		\begin{figure}
 			\raisebox{-2cm}{\includegraphics[height=3.6in, width=3.6in]{figures/heatmap5.png}}
@@ -211,14 +213,7 @@
 		\end{figure}
 	\end{frame}
 
-%	\begin{frame}
-%		\begin{figure}
-%			\vspace{0.4in}
-%			{\includegraphics[height=2.3in, width=2.1in]{figures/heatmap5.png}}
-%			{\includegraphics[height=2.3in, width=2.1in]{figures/agg_marker_5.pdf}}
-%		\end{figure}
-%	\end{frame}	
-
+	%Heat map and agg_marker for sum absolute difference (CHR 16)
 	\begin{frame}
 		\begin{figure}
 			\raisebox{-2cm}{\includegraphics[height=3.6in, width=3.6in]{figures/heatmap16.png}}
@@ -234,11 +229,67 @@
 	\begin{frame}
 		\begin{figure}
 			\vspace{0.4in}
-			{\includegraphics[height=2.3in, width=2.1in]{figures/heatmap16.png}}
-			{\includegraphics[height=2.3in, width=2.1in]{figures/agg_marker_16.pdf}}
-		\end{figure}
+			{\includegraphics[height=2.8in, width=2.1in]{figures/heatmap16.png}}
+			{\includegraphics[height=2.8in, width=2.1in]{figures/agg_marker_16.pdf}}
+		\end{figure}		
+	\end{frame}
+
+%---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+	
+\section{Probability Comparison}
+	%Geno prob .... univariate
+	\begin{frame}
+		\begin{figure}
+			\vspace{-0.1in}
+			{\includegraphics[height=3.7in, width=2.1in]{figures/uni_probs_heat_171_doqtl_size.pdf}} 
+			{\includegraphics[height=3.7in, width=2.1in]{figures/uni_probs_heat_171_rqtl2_size.pdf}}
+		\end{figure}		
+	\end{frame}
+	
+		 %markup 1
+		\begin{frame}
+			\begin{figure}
+				\vspace{-0.1in}
+				{\includegraphics[height=3.7in, width=2.1in]{figures/uni_probs_heat_171_doqtl_markup1.pdf}} 
+				{\includegraphics[height=3.7in, width=2.1in]{figures/uni_probs_heat_171_rqtl2_markup1.pdf}}
+			\end{figure}		
+		\end{frame}
 		
-		\pause Marker region specific issues
+		%markup 2
+		\begin{frame}
+			\begin{figure}
+					\vspace{-0.1in}
+				{\includegraphics[height=3.7in, width=2.1in]{figures/uni_probs_heat_171_doqtl_markup2.pdf}} 
+				{\includegraphics[height=3.7in, width=2.1in]{figures/uni_probs_heat_171_rqtl2_markup2.pdf}}
+			\end{figure}	
+		\end{frame}
+	
+	
+	%Geno prob compare  ..... bivariate
+	\begin{frame}
+		\begin{figure}
+			{\includegraphics[height=3.6in, width=3.6in]{figures/probs_compare_171.pdf}} 
+		\end{figure}	
+	\end{frame}
+
+%---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\section{Which method is giving better answer}
+
+		%So now which one is giving a better answer?
+	\begin{frame}
+		\frametitle{Which answer is `correct'?}
+			Pick an interval with differing answers and compare:
+			\begin{itemize}
+				\item Raw SNP data genotypes to `best match' \\
+				\item Predicted genotypes (for predictions) with `best match'
+				\item Predicted genotypes for both predictions to each other\\
+				\item Expected 
+				
+				
+				%NEEDS WORK ^^^^
+			\end{itemize}
 	\end{frame}
 	
 \end{document}
